@@ -5,6 +5,8 @@ TagManager:
   serializedVersion: 2
   tags:
   - warp001
+  - Fire
+  - warp003
   layers:
   - Default
   - TransparentFX

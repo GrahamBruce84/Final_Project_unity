@@ -12,8 +12,8 @@ function OnTriggerEnter (col : Collider)
 	{
 		this.transform.position = warptarget.position;
 	}
-	if (col.game.Object.tag == "warp003") 
+	if (col.gameObject.tag == "warp003") 
 	{
-		this.transform.position == warptarget1.position;
+		this.transform.position = warptarget1.position;
 	}
 }

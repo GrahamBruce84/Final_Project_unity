@@ -2,5 +2,5 @@
 
 function OnGUI () 
 {
-	GUI.Label (Rect (10,10,200, 80), ("Coins: " + coinscollected));
+	GUI.Label (Rect (10,10,200, 200), ("Coins: " + coinscollected));
 }
